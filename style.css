@@ -4,7 +4,7 @@ background-color: black;
 font-family: "Roboto condensed",sans-serif;
 }
 .chamada{
-    backgroud: rgb(62,197,89)
+    backgroud: rgb(62,197,89);
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
