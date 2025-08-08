@@ -1,5 +1,5 @@
 body {
-color:aliceblue
+color:aliceblue;
 background-color: black;
 font-family: "Roboto condensed",sans-serif;
 }
@@ -8,3 +8,4 @@ font-family: "Roboto condensed",sans-serif;
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+}
